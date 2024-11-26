@@ -1,0 +1,1 @@
+Uses an autoencoder to transform the MNIST dataset into a variable number of vectors, which you can then slide to see what each dimension corresponds to. The dataset is variable, so you can swap it out with letters (which was the original plan) to see what an autoencoder thinks are the most salient features of a number/letter/whatever.
